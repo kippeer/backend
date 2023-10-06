@@ -4,8 +4,7 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/index.js",
   "scripts": {
-    "start": "node api/index.js",
-    "reset-ids": "node resetIds.js" // Adicionando o novo script aqui
+    "start": "node api/index.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
